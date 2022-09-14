@@ -1,7 +1,9 @@
-body { 
+body{
+    background-color: #8ecae6;
+}
+main { 
     text-align: center;
-    background-color: #000000;
-    color: #ffff;
+    
 }
 
 #slogan{
@@ -12,7 +14,10 @@ body {
     height: 50%;
 }
 .conteudo{
- background: rgb(0, 0, 0); 
+ background: rgb(207, 224, 246); 
  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
- color: rgb(255, 255, 255);  
+ color: blueviolet;  
+}
+.beneficios {
+    background-color: #8ecae6;
 }
